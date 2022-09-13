@@ -4,6 +4,7 @@
 
 > this website is biult for microverse capstone project. it shows the list of top 20 Pokemon and users can like and comment on the Pokemons, it uses API to fetch and post the user data.
 
+![image](https://user-images.githubusercontent.com/104095543/190010863-9c51184c-378e-48ad-9e40-7bda11415887.png)
 
 
 ## Built With
