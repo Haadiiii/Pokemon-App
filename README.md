@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Chiflix-v1.0.0-blue.svg)
+![](https://img.shields.io/badge/PokeDoki-v1.0.0-blue.svg)
 
 # PokeDoki
 
