@@ -15,9 +15,7 @@
 - JavaScript
 - APIs
 
-### [Live Demo (Netlify)](#)
-
-clicke [Here](https://pokedoki-app.netlify.app/)
+### [Live Demo (Netlify)](https://pokedoki-app.netlify.app/)
 
 
 
